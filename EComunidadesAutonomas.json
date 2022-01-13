@@ -1,0 +1,21 @@
+[
+		{ "Code": "01", "Nombre": "Comunidad Autónoma de Andalucía" }, 		
+		{ "Code": "02", "Nombre": "Comunidad Autónoma de Aragon" },				
+		{ "Code": "03", "Nombre": "Principado de Asturias" },			
+		{ "Code": "04", "Nombre": "Islas Baleares" },    	
+		{ "Code": "05", "Nombre": "Islas Canarias" },    	
+		{ "Code": "06", "Nombre": "Cantabria" },   	
+		{ "Code": "07", "Nombre": "Castilla La Mancha" },	
+		{ "Code": "08", "Nombre": "Castilla y León" },  
+		{ "Code": "09", "Nombre": "Cataluña" },     
+		{ "Code": "10", "Nombre": "Extremadura" },   
+		{ "Code": "11", "Nombre": "Galicia" },      
+		{ "Code": "12", "Nombre": "Comunidad de Madrid" },       
+		{ "Code": "13", "Nombre": "Comunidad de Murcia" },       
+		{ "Code": "14", "Nombre": "Comunidad Foral de Navarra" },      
+		{ "Code": "15", "Nombre": "País Vasco" },   
+		{ "Code": "16", "Nombre": "La Rioja" },     
+		{ "Code": "17", "Nombre": "Comunidad Autónoma de Valencia" },   
+		{ "Code": "18", "Nombre": "Provincia Autónoma de Ceuta" },        
+		{ "Code": "19", "Nombre": "Provincia Autónoma de Melilla" } 			
+]

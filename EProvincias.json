@@ -1,0 +1,533 @@
+[
+	{ 
+		"Nombre":"Alava", "PostNombre": "Alava", "Code":[{"Data": "01"}, {"Data": "01"}], "CCAA": [{"Data": "15"}, {"Data": "15"}], "AEAT": 
+			[
+				{"Nombre":        "Alava"	,"Code":  1600  }
+			]
+	},
+	{ 
+		"Nombre":"Albacete", "PostNombre": "Albacete", "Code":[{"Data": "02"}, {"Data": "02"}], "CCAA": [{"Data": "07"}, {"Data": "07"}], "AEAT": 
+			[    
+				{"Nombre":  		 "Hellin"	,"Code":  2037 },
+				{"Nombre":  		 "La Roda","Code":  2069 },
+				{"Nombre":  		 "Albacete","Code":  2600 }
+			]
+	}		 , 
+	{ 
+		"Nombre":"Alicante", "PostNombre": "Alicante",  "Code":[{"Data": "03"}, {"Data": "03"}], "CCAA": [{"Data": "17"}, {"Data": "17"}], "AEAT": 
+			[    
+				{"Nombre":  		 "Alcoy"			 ,"Code":  3009 },
+				{"Nombre":  		 "Benidorm"		 ,"Code":  3031 },
+				{"Nombre":  		 "Denia"			 ,"Code":  3063 },
+				{"Nombre":  		 "Elche"			 ,"Code":  3065 },
+				{"Nombre":  		 "Elda" ,"Code":  3066 },
+				{"Nombre":  		 "Orihuela" ,"Code":  3099 },
+				{"Nombre":  		 "Villena" ,"Code":  3140 },
+				{"Nombre":  		 "Alicante2" ,"Code":  3600 }
+			]
+	}		 , 
+	{ 
+		"Nombre":"Almería", "PostNombre": "Almería",  "Code":[{"Data": "04"}, {"Data": "04"}], "CCAA": [{"Data": "01"}, {"Data": "01"}], "AEAT": 	
+			[
+				{"Nombre":  		 "Huercal Overa" ,"Code":  4053 },
+				{"Nombre":  		 "El Egido" ,"Code":  4104 },
+				{"Nombre":  		 "Almeria" ,"Code":  4600 }
+			]
+	}	 ,
+	{ 
+		"Nombre":"Avila", "PostNombre": "Avila", "Code":[{"Data": "05"}, {"Data": "05"}], "CCAA": [{"Data": "08"}, {"Data": "08"}], "AEAT":
+			[
+				{"Nombre":  		 "Avila" ,"Code":  5600 }
+			]
+	}		 , 
+	{ 
+		"Nombre":"Badajoz", "PostNombre": "Comunidad Autónoma de Extremadura",  "Code":[{"Data": "06"}, {"Data": "06"}], "CCAA": [{"Data": "10"}, {"Data": "10"}], "AEAT": 
+			[
+				{"Nombre":  		 "Don Benito" ,"Code":  6044 },
+				{"Nombre":  		 "Merida" ,"Code":  6083 },
+				{"Nombre":  		 "Zafra" ,"Code":  6158 },
+				{"Nombre":  		 "Badajoz" ,"Code":  6600 }
+			]
+	}	   ,
+	{ 
+		"Nombre":"Baleares", "PostNombre": "Islas Baleares",  "Code":[{"Data": "07"}, {"Data": "07"}], "CCAA": [{"Data": "04"}, {"Data": "04"}], "AEAT": 
+			[
+				{"Nombre":  		 "Ibiza Formentera" ,"Code":  7026 },
+				{"Nombre":  		 "Inca" ,"Code":  7027 },
+				{"Nombre":  		 "Menorca" ,"Code":  7032 },
+				{"Nombre":  		 "Manacor" ,"Code":  7033 },
+				{"Nombre":  		 "Palma De Mallorca" ,"Code":  7600 },
+				{"Nombre":  		 "Palma Levante" ,"Code":  7601 }
+			]
+	}		 , 
+	{ 
+		"Nombre":"Barcelona", "PostNombre": "Cataluña", "Code":[{"Data": "08"}, {"Data": "08"}], "CCAA": [{"Data": "09"}, {"Data": "09"}], "AEAT": 
+			[
+				{"Nombre":  		 "Arenys De Mar" ,"Code":  8006 },
+				{"Nombre":  		 "Badalona" ,"Code":  8015 },
+				{"Nombre":  		 "Berga" ,"Code":  8022 },
+				{"Nombre":  		 "Cornella De Llobregat" ,"Code":  8072 },
+				{"Nombre":  		 "Granollers" ,"Code":  8095 },
+				{"Nombre":  		 "L'Hospitalet de Llobregat" ,"Code":  8100 },
+				{"Nombre":  		 "Igualada" ,"Code":  8101 },
+				{"Nombre":  		 "Manresa" ,"Code":  8112 },
+				{"Nombre":  		 "Mataró" ,"Code":  8120 },
+				{"Nombre":  		 "Sabadell" ,"Code":  8186 },
+				{"Nombre":  		 "San Cugat del Vallés" ,"Code":  8204 },
+				{"Nombre":  		 "San Feliú Llobregat" ,"Code":  8210 },
+				{"Nombre":  		 "Sta Coloma de Gramanet" ,"Code":  8245 },
+				{"Nombre":  		 "Terrasa" ,"Code":  8279 },
+				{"Nombre":  		 "Vic" ,"Code":  8299 },
+				{"Nombre":  		 "Vilafranca Del Penedés" ,"Code":  8306 },
+				{"Nombre":  		 "Vilanueva i la Geltrú" ,"Code":  8308 },
+				{"Nombre":  		 "Colom" ,"Code":  8602 },
+				{"Nombre":  		 "Vía Augusta" ,"Code":  8605 },
+				{"Nombre":  		 "Horta" ,"Code":  8606 },
+				{"Nombre":  		 "Poble-Nou" ,"Code":  8608 },
+				{"Nombre":			 "Letamendi", "Code": 8610}
+		]
+	}		 , 
+	{ 
+		"Nombre":"Burgos", "PostNombre": "Burgos",  "Code":[{"Data": "09"}, {"Data": "09"}], "CCAA": [{"Data": "08"}, {"Data": "08"}], "AEAT": 	
+			[
+				{"Nombre":  		 "Aranda De Duero" ,"Code":  9018 },
+				{"Nombre":  		 "Miranda De Ebro" ,"Code":  9224 },
+				{"Nombre":  		 "Burgos" ,"Code":  9600 }
+			]
+	}	 , 
+	{ 
+		"Nombre":"Cáceres", "PostNombre": "Cáceres","Code":[{"Data": "10"}, {"Data": "10"}], "CCAA": [{"Data": "10"}, {"Data": "10"}], "AEAT": 
+			[
+				{"Nombre":  		 "Navalmoral Mata" ,"Code":  10134 },
+				{"Nombre":  		 "Plasencia" ,"Code":  10151 },
+				{"Nombre":  		 "Trujillo" ,"Code":  10199 },
+				{"Nombre":  		 "Caceres" ,"Code":  10600 }
+			]
+	}	   , 
+	{ 
+		"Nombre":"Cádiz", "PostNombre": "Cádiz",  "Code":[{"Data": "11"}, {"Data": "11"}], "CCAA": [{"Data": "01"}, {"Data": "01"}], "AEAT":  
+			[
+				{"Nombre":  		 "Algeciras" ,"Code":  11004 },
+				{"Nombre":  		 "Chiclana" ,"Code":  11015 },
+				{"Nombre":  		 "Pto Sta Maria" ,"Code":  11027 },
+				{"Nombre":  		 "Sanlucar Barrameda" ,"Code":  11032 },
+				{"Nombre":  		 "San Roque" ,"Code":  11033 },
+				{"Nombre":  		 "Ubrique" ,"Code":  11038 },
+				{"Nombre":  		 "Cadiz" ,"Code":  11600 }
+			]
+  }  , 
+	{ 
+		"Nombre":"Castellón", "PostNombre": "Castellón", "Code":[{"Data": "12"}, {"Data": "12"}], "CCAA": [{"Data": "17"}, {"Data": "17"}], "AEAT": 
+			[
+				{"Nombre":  		 "Vinaroz" ,"Code":  12138 },
+				{"Nombre":  		 "Castellon" ,"Code":  12600 },
+				{"Nombre":  		 "Castellon Centro Sur" ,"Code":  12601 }
+			]
+	}	 , 
+	{ 
+		"Nombre":"Ciudad Real", "PostNombre": "Ciudad Real",  "Code":[{"Data": "13"}, {"Data": "13"}], "CCAA": [{"Data": "07"}, {"Data": "07"}], "AEAT": 
+			[
+				{"Nombre":  		 "Alcazar De San Juan" ,"Code":  13005 },
+				{"Nombre":  		 "Puertollano" ,"Code":  13071 },
+				{"Nombre":  		 "Valdepeñas" ,"Code":  13087 },
+				{"Nombre":  		 "Ciudad Real" ,"Code":  13600 }
+			]
+	}		 , 
+	{ 
+		"Nombre":"Córdoba", "PostNombre": "Córdoba", "Code":[{"Data": "14"}, {"Data": "14"}], "CCAA": [{"Data": "01"}, {"Data": "01"}], "AEAT": 
+			[
+				{"Nombre":  		 "Lucena" ,"Code":  14038 },
+				{"Nombre":  		 "Montilla" ,"Code":  14042 },
+				{"Nombre":  		 "Penharroya Pueblonuevo" ,"Code":  14052 },
+				{"Nombre":  		 "Pozoblanco" ,"Code":  14054 },
+				{"Nombre":  		 "Cordoba" ,"Code":  14600 },
+				{"Nombre":  		 "Cordoba Este" ,"Code":  14601 },
+				{"Nombre":  		 "Cordoba Oeste" ,"Code":  14602 }
+			]
+	}		 ,
+	{ 
+		
+		"Nombre":"La Coruña", "PostNombre": "Galicia", "Code":[{"Data": "15"}, {"Data": "15"}], "CCAA": [{"Data": "11"}, {"Data": "11"}], "AEAT": 
+			[
+				{"Nombre":  		 "Betanzos" ,"Code":  15009 },
+				{"Nombre":  		 "Carballo" ,"Code":  15019 },
+				{"Nombre":  		 "Cee" ,"Code":  15023 },
+				{"Nombre":  		 "El Ferrol" ,"Code":  15037 },
+				{"Nombre":  		 "Ortigueira" ,"Code":  15062 },
+				{"Nombre":  		 "Ribeira" ,"Code":  15074 },
+				{"Nombre":  		 "Santiago Compostela" ,"Code":  15079 },
+				{"Nombre":  		 "La Coruña" ,"Code":  15600 }
+			]
+	},
+	{ 
+		"Nombre":"Cuenca", "PostNombre": "Cuenca",  "Code":[{"Data": "16"}, {"Data": "16"}], "CCAA": [{"Data": "07"}, {"Data": "07"}], "AEAT": 	
+			[
+				{"Nombre":  		 "Tarancon" ,"Code":  16212 },
+				{"Nombre":  		 "Cuenca" ,"Code":  16600 }
+			]
+	} , 
+	{ 
+		"Nombre":"Gerona", "PostNombre": "Gerona",  "Code":[{"Data": "17"}, {"Data": "17"}], "CCAA": [{"Data": "09"}, {"Data": "09"}], "AEAT": 	
+			[
+				{"Nombre":  		 "La Bisbal" ,"Code":  17025 },
+				{"Nombre":  		 "Figueras" ,"Code":  17072 },
+				{"Nombre":  		 "Olot" ,"Code":  17121 },
+				{"Nombre":  		 "Gerona" ,"Code":  17600 }
+			]
+	} , 
+	{ 
+		"Nombre":"Granada", "PostNombre": "Granada","Code":[{"Data": "18"}, {"Data": "18"}], "CCAA": [{"Data": "01"}, {"Data": "01"}], "AEAT":	
+			[
+				{"Nombre":  		 "Baza" ,"Code":  18024 },
+				{"Nombre":  		 "Guadix" ,"Code":  18091 },
+				{"Nombre":  		 "Loja" ,"Code":  18123 },
+				{"Nombre":  		 "Motril" ,"Code":  18142 },
+				{"Nombre":  		 "Orgiva" ,"Code":  18150 },
+				{"Nombre":  		 "Granada" ,"Code":  18600 },
+				{"Nombre":  		 "Granada Almanjayar" ,"Code":  18601 }
+			]
+	}	 , 
+	{ 
+		"Nombre":"Guadalajara", "PostNombre": "Guadalajara",  "Code":[{"Data": "19"}, {"Data": "19"}], "CCAA": [{"Data": "07"}, {"Data": "07"}], "AEAT":
+			[
+				{"Nombre":  		 "Guadalajara" ,"Code":  19600 }
+			]
+	}	   , 
+	{ 
+		"Nombre":"Guipúzcoa", "PostNombre": "Guipúzcoa",  "Code":[{"Data": "20"}, {"Data": "20"}],"CCAA": [{"Data": "15"}, {"Data": "15"}], "AEAT": 
+			[
+				{"Nombre":  		 "Guipuzcoa" ,"Code":  20600 }
+   		]
+	}  ,
+	{ 
+		"Nombre":"Huelva", "PostNombre": "Huelva", "Code":[{"Data": "21"}, {"Data": "21"}] , "CCAA": [{"Data": "01"}, {"Data": "01"}], "AEAT": 
+			[
+				{"Nombre":  		 "Aracena" ,"Code":  21007 },
+				{"Nombre":  		 "Ayamonte" ,"Code":  21010 },
+				{"Nombre":  		 "La Palma Del Condado" ,"Code":  21054 },
+				{"Nombre":  		 "Huelva" ,"Code":  21600 }
+			]
+	} , 
+	{ 
+		"Nombre":"Huesca", "PostNombre": "Huesca",  "Code":[{"Data": "22"}, {"Data": "22"}] , "CCAA": [{"Data": "02"}, {"Data": "02"}], "AEAT":	
+			[
+				{"Nombre":  		 "Monzon" ,"Code":  22218 },
+				{"Nombre":  		 "Huesca" ,"Code":  22600 }
+			]
+	} , 
+	{ 
+		"Nombre":"Jaén", "PostNombre": "Jaén",  "Code":[{"Data": "23"}, {"Data": "23"}], "CCAA": [{"Data": "01"}, {"Data": "01"}], "AEAT":		
+			[
+				{"Nombre":  		 "Andujar" ,"Code":  23005 },
+				{"Nombre":  		 "Linares" ,"Code":  23055 },
+				{"Nombre":  		 "Ubeda" ,"Code":  23092 },
+				{"Nombre":  		 "Villacarrillo" ,"Code":  23095 },
+				{"Nombre":  		 "Jaen" ,"Code":  23600 }
+			]
+	} , 
+	{ 
+		"Nombre":"León", "PostNombre": "León",  "Code":[{"Data": "24"}, {"Data": "24"}], "CCAA": [{"Data": "08"}, {"Data": "08"}], "AEAT":	
+			[
+				{"Nombre":  		 "Astorga" ,"Code":  24009 },
+				{"Nombre":  		 "Ponferrada" ,"Code":  24118 },
+				{"Nombre":  		 "Leon" ,"Code":  24600 }
+			]
+	} , 
+	{ 
+		"Nombre":"Lérida", "PostNombre": "Lérida",  "Code":[{"Data": "25"}, {"Data": "25"}], "CCAA": [{"Data": "09"}, {"Data": "09"}], "AEAT":
+			[
+				{"Nombre":  		 "Lerida" ,"Code":  25600 }
+			]
+		}	 ,
+	{ 
+		"Nombre":"La Rioja", "PostNombre": "La Rioja","Code":[{"Data": "26"}, {"Data": "26"}], "CCAA": [{"Data": "16"}, {"Data": "16"}], "AEAT":	
+			[
+				{"Nombre":  		 "Calahorra" ,"Code":  26036 },
+				{"Nombre":  		 "Haro" ,"Code":  26071 },
+				{"Nombre":  		 "Logronyo" ,"Code":  26600 }
+			]
+	}   , 
+	{ 
+		"Nombre":"Lugo", "PostNombre": "Lugo", "Code":[{"Data": "27"}, {"Data": "27"}], "CCAA": [{"Data": "11"}, {"Data": "11"}], "AEAT": 
+			[
+				{"Nombre":  		 "Foz" ,"Code":  27019 },
+				{"Nombre":  		 "Monforte Lemos" ,"Code":  27031 },
+				{"Nombre":  		 "Lugo" ,"Code":  27600 }
+			]
+	} , 
+	{ 
+		"Nombre":"Madrid", "PostNombre": "Comunidad de Madrid",  "Code":[{"Data": "28"}, {"Data": "28"}], "CCAA": [{"Data": "12"}, {"Data": "12"}], "AEAT":	
+			[
+				{"Nombre":  		 "Alcalá De Henares" ,"Code":  28005 },
+				{"Nombre":  		 "Alcobendas" ,"Code":  28006 },
+				{"Nombre":  		 "Alcorcón" ,"Code":  28007 },
+				{"Nombre":  		 "Aranjuez" ,"Code":  28013 },
+				{"Nombre":  		 "Arganda" ,"Code":  28014 },
+				{"Nombre":  		 "Colmenar Viejo" ,"Code":  28045 },
+				{"Nombre":  		 "El Escorial" ,"Code":  28054 },
+				{"Nombre":  		 "Fuenlabrada" ,"Code":  28058 },
+				{"Nombre":  		 "Getafe" ,"Code":  28065 },
+				{"Nombre":  		 "Leganés" ,"Code":  28074 },
+				{"Nombre":  		 "Móstoles" ,"Code":  28092 },
+				{"Nombre":  		 "Pozuelo de Alarcón" ,"Code":  28115 },
+				{"Nombre":  		 "Torrejón de Ardoz" ,"Code":  28148 },
+				{"Nombre":  		 "Madrid" ,"Code":  28600 },
+				{"Nombre":  		 "Arganzuela" ,"Code":  28601 },
+				{"Nombre":  		 "Suroeste" ,"Code":  28602 },
+				{"Nombre":  		 "Montalbán" ,"Code":  28603 },
+				{"Nombre":  		 "Ciudad Lineal" ,"Code":  28604 },
+				{"Nombre":  		 "Fermín Caballero" ,"Code":  28606 },
+				{"Nombre":  		 "Villa de Vallecas" ,"Code":  28609 },
+				{"Nombre":  		 "María de Molina" ,"Code":  28612 },
+				{"Nombre":  		 "San Blas" ,"Code":  28613 },
+				{"Nombre":  		 "Vinateros" ,"Code":  28614 },
+				{"Nombre":  		 "Villaverde-Usera" ,"Code":  28615 },
+				{"Nombre":       "Guzmán El Bueno", "Code":  28616}
+		]
+	}	 , 
+	{ 
+		"Nombre":"Málaga", "PostNombre": "Málaga",  "Code":[{"Data": "29"}, {"Data": "29"}], "CCAA": [{"Data": "01"}, {"Data": "01"}], "AEAT":	
+			[
+				{"Nombre":  		 "Alora" ,"Code":  29012 },
+				{"Nombre":  		 "Antequera" ,"Code":  29015 },
+				{"Nombre":  		 "Marbella" ,"Code":  29069 },
+				{"Nombre":  		 "Ronda" ,"Code":  29084 },
+				{"Nombre":  		 "Velez Malaga" ,"Code":  29094 },
+				{"Nombre":  		 "Malaga" ,"Code":  29600 },
+				{"Nombre":  		 "Malaga Este" ,"Code":  29601 },
+				{"Nombre":  		 "Malaga Oeste" ,"Code":  29602 }
+			]
+	}	 , 
+	{ 
+		"Nombre":"Murcia", "PostNombre": "Comunidad Autónoma de Murcia", "Code":[{"Data": "30"}, {"Data": "30"}], "CCAA": [{"Data": "13"}, {"Data": "13"}], "AEAT":
+			[
+				{"Nombre":  		 "Cieza" ,"Code":  30019 },
+				{"Nombre":  		 "Lorca" ,"Code":  30024 },
+				{"Nombre":  		 "Mula" ,"Code":  30029 },
+				{"Nombre":  		 "Murcia" ,"Code":  30600 }
+			]
+	}	 ,
+	{ 
+		"Nombre":"Navarra", "PostNombre": "Comunidad Foral de Navarra", "Code":[{"Data": "31"}, {"Data": "31"}], "CCAA": [{"Data": "14"}, {"Data": "14"}], "AEAT":	
+			[
+				{"Nombre":  		 "Navarra" ,"Code":  31600 }
+ 			]
+	}	 , 
+	{ 
+		"Nombre":"Orense", "PostNombre": "Orense",  "Code":[{"Data": "32"}, {"Data": "32"}], "CCAA": [{"Data": "11"}, {"Data": "11"}], "AEAT":	 
+			[
+				{"Nombre":  		 "Barco Valdeorras" ,"Code":  32010 },
+				{"Nombre":  		 "Carballino" ,"Code":  32020 },
+				{"Nombre":  		 "Celanova" ,"Code":  32025 },
+				{"Nombre":  		 "Verin" ,"Code":  32086 },
+				{"Nombre":  		 "Orense" ,"Code":  32600 }
+			]
+	}  , 
+	{ 
+		"Nombre":"Asturias", "PostNombre": "Principado de Asturias", "Code":[{"Data": "33"}, {"Data": "33"}], "CCAA": [{"Data": "03"}, {"Data": "03"}], "AEAT":	
+			[
+				{"Nombre":  		 "Aviles" ,"Code":  33004 },
+				{"Nombre":  		 "Cangas De Narcea" ,"Code":  33011 },
+				{"Nombre":  		 "Cangas De Onis" ,"Code":  33012 },
+				{"Nombre":  		 "Langreo" ,"Code":  33031 },
+				{"Nombre":  		 "Luarca" ,"Code":  33034 },
+				{"Nombre":  		 "Mieres" ,"Code":  33037 },
+				{"Nombre":  		 "Oviedo" ,"Code":  33600 }
+			]
+	}	 ,
+	{ 
+		"Nombre":"Palencia",  "PostNombre": "Palencia","Code":[{"Data": "34"}, {"Data": "34"}], "CCAA": [{"Data": "08"}, {"Data": "08"}], "AEAT":	
+			[
+				{"Nombre":  		 "Aguilar De Campoo" ,"Code":  34004 },
+				{"Nombre":  		 "Palencia" ,"Code":  34600 }
+			]
+	}	 , 
+	{ 
+		"Nombre":"Las Palmas",  "PostNombre": "Canarias", "Code":[{"Data": "35"}, {"Data": "35"}], "CCAA": [{"Data": "05"}, {"Data": "05"}], "AEAT":
+			[
+				{"Nombre":  		 "Lanzarote" ,"Code":  35004 },
+				{"Nombre":  		 "Sta Maria Guia" ,"Code":  35010 },
+				{"Nombre":  		 "Fuerteventura" ,"Code":  35018 },
+				{"Nombre":  		 "San Bartolome De Tiraj" ,"Code":  35020 },
+				{"Nombre":  		 "Las Palmas" ,"Code":  35600 }
+			]
+	}		 , 
+	{ 
+		"Nombre":"Pontevedra",  "PostNombre": "Pontevedra","Code":[{"Data": "36"}, {"Data": "36"}], "CCAA": [{"Data": "11"}, {"Data": "11"}], "AEAT":
+			[
+				{"Nombre":  		 "La Estrada" ,"Code":  36017 },
+				{"Nombre":  		 "Puenteareas" ,"Code":  36042 },
+				{"Nombre":  		 "Tuy" ,"Code":  36055 },
+				{"Nombre":  		 "Villagarcia Arosa" ,"Code":  36060 },
+				{"Nombre":  		 "Pontevedra" ,"Code":  36600 }
+			]
+	}	 , 
+	{ 
+		"Nombre":"Salamanca",  "PostNombre": "Salamanca", "Code":[{"Data": "37"}, {"Data": "37"}], "CCAA": [{"Data": "08"}, {"Data": "08"}], "AEAT":
+			[
+				{"Nombre":  		 "Bejar" ,"Code":  37046 },
+				{"Nombre":  		 "Ciudad Rodrigo" ,"Code":  37107 },
+				{"Nombre":  		 "Salamanca" ,"Code":  37600 }
+			]
+	}	   ,
+	{ 
+		"Nombre":"Santa Cruz De Tenerife",  "PostNombre": "Santa Cruz De Tenerife","Code":[{"Data": "38"}, {"Data": "38"}], "CCAA": [{"Data": "05"}, {"Data": "05"}], "AEAT":
+			[
+				{"Nombre":  		 "La Laguna" ,"Code":  38023 },
+				{"Nombre":  		 "La Orotava" ,"Code":  38026 },
+				{"Nombre":  		 "Gomera" ,"Code":  38036 },
+				{"Nombre":  		 "La Palma" ,"Code":  38037 },
+				{"Nombre":  		 "Hierro" ,"Code":  38048 },
+				{"Nombre":  		 "Santa Cruz De Tenerife" ,"Code":  38600 },
+				{"Nombre":  		 "Tenerife Sur" ,"Code":  38601 }
+			]
+	}		 ,
+	{ 
+		"Nombre":"Santander", "PostNombre": "Cantabria", "Code":[{"Data": "39"}, {"Data": "39"}], "CCAA": [{"Data": "06"}, {"Data": "06"}], "AEAT":
+			[
+				{"Nombre":  		 "Laredo" ,"Code":  39035 },
+				{"Nombre":  		 "Reinosa" ,"Code":  39059 },
+				{"Nombre":  		 "Torrelavega" ,"Code":  39087 },
+				{"Nombre":  		 "Cantabria" ,"Code":  39600 }
+			]
+	}		 , 
+	{ 
+		"Nombre":"Segovia", "PostNombre": "Segovia",  "Code":[{"Data": "40"}, {"Data": "40"}], "CCAA": [{"Data": "08"}, {"Data": "08"}], "AEAT":
+			[
+				{"Nombre":  		 "Segovia" ,"Code":  40600 }
+			]
+	}	   , 
+	{ 
+		"Nombre":"Sevilla", "PostNombre": "Andalucia", "Code":[{"Data": "41"}, {"Data": "41"}],  "CCAA": [{"Data": "01"}, {"Data": "01"}], "AEAT":
+			[
+				{"Nombre":  		 "Ecija" ,"Code":  41039 },
+				{"Nombre":  		 "Lora Del Rio" ,"Code":  41055 },
+				{"Nombre":  		 "Moron Frontera" ,"Code":  41065 },
+				{"Nombre":  		 "Osuna" ,"Code":  41068 },
+				{"Nombre":  		 "Utrera" ,"Code":  41095 },
+				{"Nombre":  		 "Sevilla" ,"Code":  41600 },
+				{"Nombre":  		 "Macarena" ,"Code":  41601 },
+				{"Nombre":  		 "Nervion Cerro Del Aguilar" ,"Code":  41602 },
+				{"Nombre":  		 "Parque" ,"Code":  41603 },
+				{"Nombre":  		 "San Pablo" ,"Code":  41604 },
+				{"Nombre":  		 "Sevilla Oeste Noroeste" ,"Code":  41606 },
+				{"Nombre":  		 "Triana Los Remedios" ,"Code":  41607 }
+			]
+	}	   , 
+	{ 
+		"Nombre":"Soria", "PostNombre": "Soria", "Code":[{"Data": "42"}, {"Data": "42"}], "CCAA": [{"Data": "08"}, {"Data": "08"}], "AEAT": 
+			[
+				{"Nombre":  		 "Soria" ,"Code":  42600 }
+			]
+	}		 , 
+	{ 
+		"Nombre":"Tarragona", "PostNombre": "Tarragona","Code":[{"Data": "43"}, {"Data": "43"}], "CCAA": [{"Data": "09"}, {"Data": "09"}], "AEAT":
+			[
+				{"Nombre":  		 "Reus" ,"Code":  43125 },
+				{"Nombre":  		 "Tortosa" ,"Code":  43157 },
+				{"Nombre":  		 "Tarragona" ,"Code":  43600 }
+			]
+	}		 , 
+	{ 
+		"Nombre":"Teruel", "PostNombre": "Teruel",  "Code":[{"Data": "44"}, {"Data": "44"}], "CCAA": [{"Data": "02"}, {"Data": "02"}], "AEAT":
+			[
+				{"Nombre":  		 "Alcañiz" ,"Code":  44013 },
+				{"Nombre":  		 "Teruel" ,"Code":  44600 }
+			]
+	}	   , 
+	{ 
+		"Nombre":"Toledo", "PostNombre": "Castilla La Mancha", "Code":[{"Data": "45"}, {"Data": "45"}], "CCAA": [{"Data": "07"}, {"Data": "07"}], "AEAT":
+			[
+				{"Nombre":  		 "Quintanar De La Orden" ,"Code":  45143 },
+				{"Nombre":  		 "Talavera Reina" ,"Code":  45166 },
+				{"Nombre":  		 "Toledo" ,"Code":  45600 }
+			]
+	}		 , 
+	{ 
+		"Nombre":"Valencia", "PostNombre": "Comunidad Valenciana", "Code":[{"Data": "46"}, {"Data": "46"}], "CCAA": [{"Data": "17"}, {"Data": "17"}], "AEAT":
+			[
+				{"Nombre":  		 "Alcira" ,"Code":  46017 },
+				{"Nombre":  		 "Catarroja" ,"Code":  46096 },
+				{"Nombre":  		 "Gandia" ,"Code":  46133 },
+				{"Nombre":  		 "Jativa" ,"Code":  46147 },
+				{"Nombre":  		 "Liria" ,"Code":  46149 },
+				{"Nombre":  		 "Manises" ,"Code":  46161 },
+				{"Nombre":  		 "Moncada" ,"Code":  46173 },
+				{"Nombre":  		 "Requena" ,"Code":  46215 },
+				{"Nombre":  		 "Sagunto" ,"Code":  46222 },
+				{"Nombre":  		 "Sueca" ,"Code":  46237 },
+				{"Nombre":  		 "Torrente" ,"Code":  46246 },
+				{"Nombre":  		 "Valencia" ,"Code":  46600 },
+				{"Nombre":  		 "Valencia Grao" ,"Code":  46601 },
+				{"Nombre":  		 "Valencia Norte" ,"Code":  46602 }
+			]
+	}	   ,
+	{ 
+		"Nombre":"Valladolid", "PostNombre": "Castilla y León","Code":[{"Data": "47"}, {"Data": "47"}], "CCAA": [{"Data": "08"}, {"Data": "08"}], "AEAT":
+			[
+				{"Nombre":  		 "Medina Del Campo" ,"Code":  47086 },
+				{"Nombre":  		 "Valladolid" ,"Code":  47600 },
+				{"Nombre":  		 "Valladolid Capital" ,"Code":  47601 }
+			]
+	} 	 , 
+	{ 
+		"Nombre":"Vizcaya", "PostNombre": "País Vasco",  "Code":[{"Data": "48"}, {"Data": "48"}], "CCAA": [{"Data": "15"}, {"Data": "15"}], "AEAT": 
+			[
+				{"Nombre":  		 "Vizcaya" ,"Code":  48600 }
+			]
+	}	   , 
+	{ 
+		"Nombre":"Zamora", "PostNombre": "Zamora", "Code":[{"Data": "49"}, {"Data": "49"}], "CCAA": [{"Data": "08"}, {"Data": "08"}], "AEAT":
+			[
+				{"Nombre":  		 "Benavente" ,"Code":  49023 },
+				{"Nombre":  		 "Zamora" ,"Code":  49600 }
+			]
+	} 	 , 
+	{ 
+		"Nombre":"Zaragoza", "PostNombre": "Aragón",  "Code":[{"Data": "50"}, {"Data": "50"}], "CCAA": [{"Data": "02"}, {"Data": "02"}], "AEAT":
+			[
+				{"Nombre":  		 "Calatayud" ,"Code":  50067 },
+				{"Nombre":  		 "Egea De Los Caballeros" ,"Code":  50095 },
+				{"Nombre":  		 "Zaragoza" ,"Code":  50600 },
+				{"Nombre":  		 "Arrabal Puente Santiago" ,"Code":  50601 },
+				{"Nombre":  		 "Delicias" ,"Code":  50602 },
+				{"Nombre":  		 "Las Fuentes" ,"Code":  50603 }
+			]
+	} 	 ,
+	{ 
+		"Nombre":"Ceuta",  "PostNombre": "Provincia Autónoma de Ceuta", "Code":[{"Data": "51"}, {"Data": "55"}], "CCAA": [{"Data": "18"}, {"Data": "01"}], "AEAT": 
+			[
+				{"Nombre":  		 "Ceuta" ,"Code":  55600 }
+			]
+	},
+	{ 
+		"Nombre":"Melilla",  "PostNombre": "Provincia Autónoma de Melilla", "Code":[{"Data": "52"}, {"Data": "56"}], "CCAA": [{"Data": "19"}, {"Data":"01"}], "AEAT":
+			[
+				{"Nombre":  		 "Melilla" ,"Code":  56600 }
+			]
+	},   
+  {	
+		"Nombre":"_Murcia_", "PostNombre": "Cartagena", "Code":[{"Data": "30"}, {"Data": "51"}], "CCAA": [{"Data": "13"}, {"Data": "13"}], "AEAT":
+			[
+				{"Nombre":  		 "Cartagena" ,"Code":  51600 }
+			]
+	},
+	{ 
+		"Nombre":"_Asturias_", "PostNombre": "Gijon", "Code":[{"Data": "33"}, {"Data": "52"}], "CCAA": [{"Data": "03"}, {"Data": "03"}], "AEAT":
+			[
+				{"Nombre":  		 "Gijon" ,"Code":  52600 }
+			]
+	},
+	{ 
+		"Nombre":"_Cadiz_", "PostNombre": "JerezDeLaFrontera", "Code":[{"Data": "11"}, {"Data": "53"}], "CCAA": [{"Data": "01"}, {"Data": "01"}], "AEAT":
+			[
+				{"Nombre":  		 "Jerez De La Frontera" ,"Code":  53600 }
+			]
+	},
+	{ 
+		"Nombre":"_Pontevedra_", "PostNombre": "Vigo", "Code":[{"Data": "36"}, {"Data": "54"}], "CCAA": [{"Data": "11"}, {"Data": "11"}], "AEAT":
+			[
+				{"Nombre":  		 "Vigo" ,"Code":  54600 }
+			]
+	}
+]
